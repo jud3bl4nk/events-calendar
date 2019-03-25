@@ -1,0 +1,45 @@
+html {
+  font-family: Merriweather, serif;
+}
+
+tbody tr {
+  height: 9.8em;
+  width: 20em;
+}
+
+.date {
+  border: solid 1px #ccc;
+}
+
+.launched,
+.failed,
+.india,
+.explorer {
+  background-color: #f2f2f2;
+  border: solid 1px #333;
+  color: #666;
+  border-radius: 8px;
+}
+
+.remember {
+  background-color: #f2bcbc;
+  border: solid 1px #b92828;
+  color: #991919;
+  border-radius: 8px;
+}
+
+.created,
+.record {
+  background-color: #d1e0bf;
+  border: solid 1px #6b7e54;
+  color: #51603f;
+  border-radius: 8px;
+}
+
+.albous,
+.doctor {
+  background-color: #d2d6f0;
+  border: solid 1px #1d38da;
+  color: #38448e;
+  border-radius: 8px;
+}
